@@ -1,5 +1,7 @@
 ## Hi there 👋
-
+## I have a higher education. I graduated from the Ryazan Radio Engineering Institute in the Department of Radio Engineering.
+## As for my work experience, I can mention my work on an AI-related project. I worked on this project for 1.5 years, and my main task was to generate data for AI.
+## I can say that I can adapt to various tasks in projects when necessary, and I will be very punctual when working with a specific deadline.
 <!--
 **Lenox-new/Lenox-new** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
